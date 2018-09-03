@@ -1,0 +1,14 @@
+{
+	"extensions":{
+		"recommendations": [
+			"formulahendry.vscode-node-red"
+		]
+	},	
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {},
+	
+}
